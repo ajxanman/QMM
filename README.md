@@ -1,2 +1,2 @@
-# Questumation-mark
-Code for the questiumation mark movement
+# Questumation Mark Movement
+This is code for the QMM homepage!
