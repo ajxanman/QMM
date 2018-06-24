@@ -1,0 +1,15 @@
+*{
+  text-align: center;
+  font-family: monospace;
+  color: #ffffff;
+}
+html{
+  background: radial-gradient(#7f7f7f, #262626);
+}
+#info{
+  width: 75%;
+  margin-left: 150px;
+}
+#contact{
+  margin-top: 75px;
+}
